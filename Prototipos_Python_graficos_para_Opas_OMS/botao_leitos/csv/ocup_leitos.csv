@@ -1,0 +1,595 @@
+﻿Regiao;Estado;Data;% de ocupação de UTI
+Nordeste;Alagoas;2021-07-08;66
+Nordeste;Alagoas;2021-07-09;63
+Nordeste;Alagoas;2021-07-10;65
+Nordeste;Alagoas;2021-07-11;66
+Nordeste;Alagoas;2021-07-12;60
+Nordeste;Alagoas;2021-07-13;57
+Nordeste;Alagoas;2021-07-14;58
+Nordeste;Alagoas;2021-07-15;59
+Nordeste;Alagoas;2021-07-16;58
+Nordeste;Alagoas;2021-07-17;56
+Nordeste;Alagoas;2021-07-18;56
+Nordeste;Alagoas;2021-07-19;54
+Nordeste;Alagoas;2021-07-20;53
+Nordeste;Alagoas;2021-07-21;49
+Nordeste;Alagoas;2021-07-22;44
+Nordeste;Alagoas;2021-07-23;45
+Nordeste;Alagoas;2021-07-24;44
+Nordeste;Alagoas;2021-07-25;44
+Nordeste;Alagoas;2021-07-26;45
+Nordeste;Alagoas;2021-07-27;45
+Nordeste;Alagoas;2021-07-28;35
+Nordeste;Alagoas;2021-07-29;35
+Nordeste;Bahia;2021-07-08;67
+Nordeste;Bahia;2021-07-09;66
+Nordeste;Bahia;2021-07-10;65
+Nordeste;Bahia;2021-07-11;65
+Nordeste;Bahia;2021-07-12;62
+Nordeste;Bahia;2021-07-13;62
+Nordeste;Bahia;2021-07-14;62
+Nordeste;Bahia;2021-07-15;59
+Nordeste;Bahia;2021-07-16;57
+Nordeste;Bahia;2021-07-17;58
+Nordeste;Bahia;2021-07-18;58
+Nordeste;Bahia;2021-07-19;60
+Nordeste;Bahia;2021-07-20;57
+Nordeste;Bahia;2021-07-21;57
+Nordeste;Bahia;2021-07-22;56
+Nordeste;Bahia;2021-07-23;56
+Nordeste;Bahia;2021-07-24;56
+Nordeste;Bahia;2021-07-25;54
+Nordeste;Bahia;2021-07-26;53
+Nordeste;Bahia;2021-07-27;52
+Nordeste;Bahia;2021-07-28;53
+Nordeste;Bahia;2021-07-29;51
+Nordeste;Ceará;2021-07-08;66
+Nordeste;Ceará;2021-07-09;62
+Nordeste;Ceará;2021-07-10;66
+Nordeste;Ceará;2021-07-11;65
+Nordeste;Ceará;2021-07-12;60
+Nordeste;Ceará;2021-07-13;59
+Nordeste;Ceará;2021-07-14;59
+Nordeste;Ceará;2021-07-15;58
+Nordeste;Ceará;2021-07-16;59
+Nordeste;Ceará;2021-07-17;60
+Nordeste;Ceará;2021-07-18;61
+Nordeste;Ceará;2021-07-19;52
+Nordeste;Ceará;2021-07-20;50
+Nordeste;Ceará;2021-07-21;48
+Nordeste;Ceará;2021-07-22;49
+Nordeste;Ceará;2021-07-23;49
+Nordeste;Ceará;2021-07-24;49
+Nordeste;Ceará;2021-07-25;58
+Nordeste;Ceará;2021-07-26;50
+Nordeste;Ceará;2021-07-27;48
+Nordeste;Ceará;2021-07-28;47
+Nordeste;Ceará;2021-07-29;46
+Nordeste;Maranhão;2021-07-08;70
+Nordeste;Maranhão;2021-07-09;68
+Nordeste;Maranhão;2021-07-10;67
+Nordeste;Maranhão;2021-07-11;63
+Nordeste;Maranhão;2021-07-12;62
+Nordeste;Maranhão;2021-07-13;64
+Nordeste;Maranhão;2021-07-14;66
+Nordeste;Maranhão;2021-07-15;65
+Nordeste;Maranhão;2021-07-16;64
+Nordeste;Maranhão;2021-07-17;53
+Nordeste;Maranhão;2021-07-18;60
+Nordeste;Maranhão;2021-07-19;65
+Nordeste;Maranhão;2021-07-20;64
+Nordeste;Maranhão;2021-07-21;62
+Nordeste;Maranhão;2021-07-22;60
+Nordeste;Maranhão;2021-07-23;58
+Nordeste;Maranhão;2021-07-24;58
+Nordeste;Maranhão;2021-07-25;62
+Nordeste;Maranhão;2021-07-26;65
+Nordeste;Maranhão;2021-07-27;70
+Nordeste;Maranhão;2021-07-28;63
+Nordeste;Maranhão;2021-07-29;60
+Nordeste;Paraíba;2021-07-08;43
+Nordeste;Paraíba;2021-07-09;41
+Nordeste;Paraíba;2021-07-10;59
+Nordeste;Paraíba;2021-07-11;42
+Nordeste;Paraíba;2021-07-12;39
+Nordeste;Paraíba;2021-07-13;37
+Nordeste;Paraíba;2021-07-14;38
+Nordeste;Paraíba;2021-07-15;35
+Nordeste;Paraíba;2021-07-16;35
+Nordeste;Paraíba;2021-07-17;34
+Nordeste;Paraíba;2021-07-18;34
+Nordeste;Paraíba;2021-07-19;34
+Nordeste;Paraíba;2021-07-20;34
+Nordeste;Paraíba;2021-07-21;34
+Nordeste;Paraíba;2021-07-22;34
+Nordeste;Paraíba;2021-07-23;34
+Nordeste;Paraíba;2021-07-24;34
+Nordeste;Paraíba;2021-07-25;34
+Nordeste;Paraíba;2021-07-26;34
+Nordeste;Paraíba;2021-07-27;32
+Nordeste;Paraíba;2021-07-28;31
+Nordeste;Paraíba;2021-07-29;30
+Nordeste;Pernambuco;2021-07-08;65
+Nordeste;Pernambuco;2021-07-09;63
+Nordeste;Pernambuco;2021-07-10;63
+Nordeste;Pernambuco;2021-07-11;62
+Nordeste;Pernambuco;2021-07-12;61
+Nordeste;Pernambuco;2021-07-13;61
+Nordeste;Pernambuco;2021-07-14;61
+Nordeste;Pernambuco;2021-07-15;63
+Nordeste;Pernambuco;2021-07-16;62
+Nordeste;Pernambuco;2021-07-17;61
+Nordeste;Pernambuco;2021-07-18;61
+Nordeste;Pernambuco;2021-07-19;58
+Nordeste;Pernambuco;2021-07-20;58
+Nordeste;Pernambuco;2021-07-21;55
+Nordeste;Pernambuco;2021-07-22;55
+Nordeste;Pernambuco;2021-07-23;52
+Nordeste;Pernambuco;2021-07-24;52
+Nordeste;Pernambuco;2021-07-25;49
+Nordeste;Pernambuco;2021-07-26;49
+Nordeste;Pernambuco;2021-07-27;49
+Nordeste;Pernambuco;2021-07-28;49
+Nordeste;Pernambuco;2021-07-29;47
+Nordeste;Piauí;2021-07-08;63
+Nordeste;Piauí;2021-07-09;63
+Nordeste;Piauí;2021-07-10;62
+Nordeste;Piauí;2021-07-11;60
+Nordeste;Piauí;2021-07-12;64
+Nordeste;Piauí;2021-07-13;60
+Nordeste;Piauí;2021-07-14;56
+Nordeste;Piauí;2021-07-15;54
+Nordeste;Piauí;2021-07-16;52
+Nordeste;Piauí;2021-07-17;54
+Nordeste;Piauí;2021-07-18;53
+Nordeste;Piauí;2021-07-19;54
+Nordeste;Piauí;2021-07-20;53
+Nordeste;Piauí;2021-07-21;51
+Nordeste;Piauí;2021-07-22;53
+Nordeste;Piauí;2021-07-23;53
+Nordeste;Piauí;2021-07-24;53
+Nordeste;Piauí;2021-07-25;51
+Nordeste;Piauí;2021-07-26;57
+Nordeste;Piauí;2021-07-27;52
+Nordeste;Piauí;2021-07-28;51
+Nordeste;Piauí;2021-07-29;57
+Nordeste;Rio Grande do Norte;2021-07-08;56
+Nordeste;Rio Grande do Norte;2021-07-09;55
+Nordeste;Rio Grande do Norte;2021-07-10;54
+Nordeste;Rio Grande do Norte;2021-07-11;56
+Nordeste;Rio Grande do Norte;2021-07-12;55
+Nordeste;Rio Grande do Norte;2021-07-13;53
+Nordeste;Rio Grande do Norte;2021-07-14;53
+Nordeste;Rio Grande do Norte;2021-07-15;54
+Nordeste;Rio Grande do Norte;2021-07-16;53
+Nordeste;Rio Grande do Norte;2021-07-17;51
+Nordeste;Rio Grande do Norte;2021-07-18;49
+Nordeste;Rio Grande do Norte;2021-07-19;48
+Nordeste;Rio Grande do Norte;2021-07-20;49
+Nordeste;Rio Grande do Norte;2021-07-21;50
+Nordeste;Rio Grande do Norte;2021-07-22;50
+Nordeste;Rio Grande do Norte;2021-07-23;49
+Nordeste;Rio Grande do Norte;2021-07-24;49
+Nordeste;Rio Grande do Norte;2021-07-25;44
+Nordeste;Rio Grande do Norte;2021-07-26;41
+Nordeste;Rio Grande do Norte;2021-07-27;42
+Nordeste;Rio Grande do Norte;2021-07-28;42
+Nordeste;Rio Grande do Norte;2021-07-29;41
+Nordeste;Sergipe;2021-07-08;52
+Nordeste;Sergipe;2021-07-09;52
+Nordeste;Sergipe;2021-07-10;51
+Nordeste;Sergipe;2021-07-11;50
+Nordeste;Sergipe;2021-07-12;50
+Nordeste;Sergipe;2021-07-13;49
+Nordeste;Sergipe;2021-07-14;48
+Nordeste;Sergipe;2021-07-15;52
+Nordeste;Sergipe;2021-07-16;51
+Nordeste;Sergipe;2021-07-17;48
+Nordeste;Sergipe;2021-07-18;47
+Nordeste;Sergipe;2021-07-19;45
+Nordeste;Sergipe;2021-07-20;43
+Nordeste;Sergipe;2021-07-21;51
+Nordeste;Sergipe;2021-07-22;55
+Nordeste;Sergipe;2021-07-23;48
+Nordeste;Sergipe;2021-07-24;48
+Nordeste;Sergipe;2021-07-25;46
+Nordeste;Sergipe;2021-07-26;45
+Nordeste;Sergipe;2021-07-27;41
+Nordeste;Sergipe;2021-07-28;39
+Nordeste;Sergipe;2021-07-29;39
+Norte;Acre;2021-07-08;27
+Norte;Acre;2021-07-09;26
+Norte;Acre;2021-07-10;23
+Norte;Acre;2021-07-11;23
+Norte;Acre;2021-07-12;24
+Norte;Acre;2021-07-13;25
+Norte;Acre;2021-07-14;20
+Norte;Acre;2021-07-15;19
+Norte;Acre;2021-07-16;22
+Norte;Acre;2021-07-17;20
+Norte;Acre;2021-07-18;18
+Norte;Acre;2021-07-19;17
+Norte;Acre;2021-07-20;13
+Norte;Acre;2021-07-21;13
+Norte;Acre;2021-07-22;14
+Norte;Acre;2021-07-23;12
+Norte;Acre;2021-07-24;12
+Norte;Acre;2021-07-25;19
+Norte;Acre;2021-07-26;17
+Norte;Acre;2021-07-27;20
+Norte;Acre;2021-07-28;21
+Norte;Acre;2021-07-29;23
+Norte;Amazonas;2021-07-08;59
+Norte;Amazonas;2021-07-09;60
+Norte;Amazonas;2021-07-10;61
+Norte;Amazonas;2021-07-11;62
+Norte;Amazonas;2021-07-12;61
+Norte;Amazonas;2021-07-13;60
+Norte;Amazonas;2021-07-14;64
+Norte;Amazonas;2021-07-15;60
+Norte;Amazonas;2021-07-16;59
+Norte;Amazonas;2021-07-17;58
+Norte;Amazonas;2021-07-18;62
+Norte;Amazonas;2021-07-19;61
+Norte;Amazonas;2021-07-20;56
+Norte;Amazonas;2021-07-21;56
+Norte;Amazonas;2021-07-22;54
+Norte;Amazonas;2021-07-23;54
+Norte;Amazonas;2021-07-24;54
+Norte;Amazonas;2021-07-25;55
+Norte;Amazonas;2021-07-26;52
+Norte;Amazonas;2021-07-27;52
+Norte;Amazonas;2021-07-28;50
+Norte;Amazonas;2021-07-29;51
+Norte;Amapá;2021-07-08;43
+Norte;Amapá;2021-07-09;47
+Norte;Amapá;2021-07-10;47
+Norte;Amapá;2021-07-11;47
+Norte;Amapá;2021-07-12;47
+Norte;Amapá;2021-07-13;47
+Norte;Amapá;2021-07-14;47
+Norte;Amapá;2021-07-15;47
+Norte;Amapá;2021-07-16;47
+Norte;Amapá;2021-07-17;47
+Norte;Amapá;2021-07-18;47
+Norte;Amapá;2021-07-19;47
+Norte;Amapá;2021-07-20;47
+Norte;Amapá;2021-07-21;47
+Norte;Amapá;2021-07-22;39
+Norte;Amapá;2021-07-23;38
+Norte;Amapá;2021-07-24;38
+Norte;Amapá;2021-07-25;36
+Norte;Amapá;2021-07-26;34
+Norte;Amapá;2021-07-27;32
+Norte;Amapá;2021-07-28;32
+Norte;Amapá;2021-07-29;31
+Norte;Pará;2021-07-08;55
+Norte;Pará;2021-07-09;59
+Norte;Pará;2021-07-10;60
+Norte;Pará;2021-07-11;61
+Norte;Pará;2021-07-12;61
+Norte;Pará;2021-07-13;61
+Norte;Pará;2021-07-14;59
+Norte;Pará;2021-07-15;56
+Norte;Pará;2021-07-16;57
+Norte;Pará;2021-07-17;62
+Norte;Pará;2021-07-18;63
+Norte;Pará;2021-07-19;60
+Norte;Pará;2021-07-20;58
+Norte;Pará;2021-07-21;60
+Norte;Pará;2021-07-22;58
+Norte;Pará;2021-07-23;59
+Norte;Pará;2021-07-24;59
+Norte;Pará;2021-07-25;62
+Norte;Pará;2021-07-26;61
+Norte;Pará;2021-07-27;61
+Norte;Pará;2021-07-28;57
+Norte;Pará;2021-07-29;54
+Norte;Rondônia;2021-07-08;46
+Norte;Rondônia;2021-07-09;36
+Norte;Rondônia;2021-07-10;36
+Norte;Rondônia;2021-07-11;26
+Norte;Rondônia;2021-07-12;35
+Norte;Rondônia;2021-07-13;46
+Norte;Rondônia;2021-07-14;60
+Norte;Rondônia;2021-07-15;62
+Norte;Rondônia;2021-07-16;66
+Norte;Rondônia;2021-07-17;64
+Norte;Rondônia;2021-07-18;64
+Norte;Rondônia;2021-07-19;63
+Norte;Rondônia;2021-07-20;60
+Norte;Rondônia;2021-07-21;57
+Norte;Rondônia;2021-07-22;57
+Norte;Rondônia;2021-07-23;57
+Norte;Rondônia;2021-07-24;57
+Norte;Rondônia;2021-07-25;59
+Norte;Rondônia;2021-07-26;55
+Norte;Rondônia;2021-07-27;55
+Norte;Rondônia;2021-07-28;55
+Norte;Rondônia;2021-07-29;54
+Norte;Roraima;2021-07-08;73
+Norte;Roraima;2021-07-09;73
+Norte;Roraima;2021-07-10;76
+Norte;Roraima;2021-07-11;74
+Norte;Roraima;2021-07-12;73
+Norte;Roraima;2021-07-13;74
+Norte;Roraima;2021-07-14;77
+Norte;Roraima;2021-07-15;76
+Norte;Roraima;2021-07-16;72
+Norte;Roraima;2021-07-17;66
+Norte;Roraima;2021-07-18;65
+Norte;Roraima;2021-07-19;66
+Norte;Roraima;2021-07-20;68
+Norte;Roraima;2021-07-21;65
+Norte;Roraima;2021-07-22;70
+Norte;Roraima;2021-07-23;69
+Norte;Roraima;2021-07-24;69
+Norte;Roraima;2021-07-25;72
+Norte;Roraima;2021-07-26;68
+Norte;Roraima;2021-07-27;68
+Norte;Roraima;2021-07-28;68
+Norte;Roraima;2021-07-29;62
+Norte;Tocantins;2021-07-08;71
+Norte;Tocantins;2021-07-09;69
+Norte;Tocantins;2021-07-10;74
+Norte;Tocantins;2021-07-11;76
+Norte;Tocantins;2021-07-12;73
+Norte;Tocantins;2021-07-13;72
+Norte;Tocantins;2021-07-14;74
+Norte;Tocantins;2021-07-15;79
+Norte;Tocantins;2021-07-16;78
+Norte;Tocantins;2021-07-17;75
+Norte;Tocantins;2021-07-18;71
+Norte;Tocantins;2021-07-19;75
+Norte;Tocantins;2021-07-20;73
+Norte;Tocantins;2021-07-21;70
+Norte;Tocantins;2021-07-22;71
+Norte;Tocantins;2021-07-23;71
+Norte;Tocantins;2021-07-24;71
+Norte;Tocantins;2021-07-25;72
+Norte;Tocantins;2021-07-26;69
+Norte;Tocantins;2021-07-27;72
+Norte;Tocantins;2021-07-28;71
+Norte;Tocantins;2021-07-29;75
+Sudeste;Espírito Santo;2021-07-08;57
+Sudeste;Espírito Santo;2021-07-09;56
+Sudeste;Espírito Santo;2021-07-10;54
+Sudeste;Espírito Santo;2021-07-11;54
+Sudeste;Espírito Santo;2021-07-12;55
+Sudeste;Espírito Santo;2021-07-13;53
+Sudeste;Espírito Santo;2021-07-14;52
+Sudeste;Espírito Santo;2021-07-15;52
+Sudeste;Espírito Santo;2021-07-16;52
+Sudeste;Espírito Santo;2021-07-17;52
+Sudeste;Espírito Santo;2021-07-18;51
+Sudeste;Espírito Santo;2021-07-19;54
+Sudeste;Espírito Santo;2021-07-20;52
+Sudeste;Espírito Santo;2021-07-21;51
+Sudeste;Espírito Santo;2021-07-22;50
+Sudeste;Espírito Santo;2021-07-23;50
+Sudeste;Espírito Santo;2021-07-24;50
+Sudeste;Espírito Santo;2021-07-25;50
+Sudeste;Espírito Santo;2021-07-26;50
+Sudeste;Espírito Santo;2021-07-27;51
+Sudeste;Espírito Santo;2021-07-28;49
+Sudeste;Espírito Santo;2021-07-29;47
+Sudeste;Minas Gerais;2021-07-08;66
+Sudeste;Minas Gerais;2021-07-09;66
+Sudeste;Minas Gerais;2021-07-10;65
+Sudeste;Minas Gerais;2021-07-11;65
+Sudeste;Minas Gerais;2021-07-12;64
+Sudeste;Minas Gerais;2021-07-13;63
+Sudeste;Minas Gerais;2021-07-14;62
+Sudeste;Minas Gerais;2021-07-15;58
+Sudeste;Minas Gerais;2021-07-16;58
+Sudeste;Minas Gerais;2021-07-17;59
+Sudeste;Minas Gerais;2021-07-18;59
+Sudeste;Minas Gerais;2021-07-19;60
+Sudeste;Minas Gerais;2021-07-20;59
+Sudeste;Minas Gerais;2021-07-21;58
+Sudeste;Minas Gerais;2021-07-22;58
+Sudeste;Minas Gerais;2021-07-23;57
+Sudeste;Minas Gerais;2021-07-24;57
+Sudeste;Minas Gerais;2021-07-25;56
+Sudeste;Minas Gerais;2021-07-26;56
+Sudeste;Minas Gerais;2021-07-27;54
+Sudeste;Minas Gerais;2021-07-28;55
+Sudeste;Minas Gerais;2021-07-29;54
+Sudeste;Rio de Janeiro;2021-07-08;58
+Sudeste;Rio de Janeiro;2021-07-09;57
+Sudeste;Rio de Janeiro;2021-07-10;58
+Sudeste;Rio de Janeiro;2021-07-11;57
+Sudeste;Rio de Janeiro;2021-07-12;57
+Sudeste;Rio de Janeiro;2021-07-13;61
+Sudeste;Rio de Janeiro;2021-07-14;60
+Sudeste;Rio de Janeiro;2021-07-15;60
+Sudeste;Rio de Janeiro;2021-07-16;60
+Sudeste;Rio de Janeiro;2021-07-17;59
+Sudeste;Rio de Janeiro;2021-07-18;58
+Sudeste;Rio de Janeiro;2021-07-19;60
+Sudeste;Rio de Janeiro;2021-07-20;60
+Sudeste;Rio de Janeiro;2021-07-21;58
+Sudeste;Rio de Janeiro;2021-07-22;59
+Sudeste;Rio de Janeiro;2021-07-23;58
+Sudeste;Rio de Janeiro;2021-07-24;58
+Sudeste;Rio de Janeiro;2021-07-25;59
+Sudeste;Rio de Janeiro;2021-07-26;59
+Sudeste;Rio de Janeiro;2021-07-27;58
+Sudeste;Rio de Janeiro;2021-07-28;58
+Sudeste;Rio de Janeiro;2021-07-29;57
+Sudeste; São Paulo;2021-07-08;70
+Sudeste; São Paulo;2021-07-09;69
+Sudeste; São Paulo;2021-07-10;68
+Sudeste; São Paulo;2021-07-11;67
+Sudeste; São Paulo;2021-07-12;66
+Sudeste; São Paulo;2021-07-13;66
+Sudeste; São Paulo;2021-07-14;65
+Sudeste; São Paulo;2021-07-15;64
+Sudeste; São Paulo;2021-07-16;64
+Sudeste; São Paulo;2021-07-17;63
+Sudeste; São Paulo;2021-07-18;63
+Sudeste; São Paulo;2021-07-19;62
+Sudeste; São Paulo;2021-07-20;61
+Sudeste; São Paulo;2021-07-21;60
+Sudeste; São Paulo;2021-07-22;59
+Sudeste; São Paulo;2021-07-23;58
+Sudeste; São Paulo;2021-07-24;58
+Sudeste; São Paulo;2021-07-25;56
+Sudeste; São Paulo;2021-07-26;55
+Sudeste; São Paulo;2021-07-27;54
+Sudeste; São Paulo;2021-07-28;53
+Sudeste; São Paulo;2021-07-29;52
+Centro-Oeste;Distrito Federal;2021-07-08;95
+Centro-Oeste;Distrito Federal;2021-07-09;95
+Centro-Oeste;Distrito Federal;2021-07-10;97
+Centro-Oeste;Distrito Federal;2021-07-11;94
+Centro-Oeste;Distrito Federal;2021-07-12;94
+Centro-Oeste;Distrito Federal;2021-07-13;94
+Centro-Oeste;Distrito Federal;2021-07-14;93
+Centro-Oeste;Distrito Federal;2021-07-15;92
+Centro-Oeste;Distrito Federal;2021-07-16;89
+Centro-Oeste;Distrito Federal;2021-07-17;90
+Centro-Oeste;Distrito Federal;2021-07-18;94
+Centro-Oeste;Distrito Federal;2021-07-19;93
+Centro-Oeste;Distrito Federal;2021-07-20;93
+Centro-Oeste;Distrito Federal;2021-07-21;91
+Centro-Oeste;Distrito Federal;2021-07-22;93
+Centro-Oeste;Distrito Federal;2021-07-23;94
+Centro-Oeste;Distrito Federal;2021-07-24;94
+Centro-Oeste;Distrito Federal;2021-07-25;88
+Centro-Oeste;Distrito Federal;2021-07-26;90
+Centro-Oeste;Distrito Federal;2021-07-27;88
+Centro-Oeste;Distrito Federal;2021-07-28;80
+Centro-Oeste;Distrito Federal;2021-07-29;85
+Centro-Oeste;Goiás;2021-07-08;76
+Centro-Oeste;Goiás;2021-07-09;75
+Centro-Oeste;Goiás;2021-07-10;76
+Centro-Oeste;Goiás;2021-07-11;77
+Centro-Oeste;Goiás;2021-07-12;78
+Centro-Oeste;Goiás;2021-07-13;78
+Centro-Oeste;Goiás;2021-07-14;78
+Centro-Oeste;Goiás;2021-07-15;78
+Centro-Oeste;Goiás;2021-07-16;80
+Centro-Oeste;Goiás;2021-07-17;80
+Centro-Oeste;Goiás;2021-07-18;80
+Centro-Oeste;Goiás;2021-07-19;82
+Centro-Oeste;Goiás;2021-07-20;84
+Centro-Oeste;Goiás;2021-07-21;86
+Centro-Oeste;Goiás;2021-07-22;81
+Centro-Oeste;Goiás;2021-07-23;83
+Centro-Oeste;Goiás;2021-07-24;83
+Centro-Oeste;Goiás;2021-07-25;83
+Centro-Oeste;Goiás;2021-07-26;85
+Centro-Oeste;Goiás;2021-07-27;85
+Centro-Oeste;Goiás;2021-07-28;84
+Centro-Oeste;Goiás;2021-07-29;81
+Centro-Oeste;Mato Grosso do Sul;2021-07-08;65
+Centro-Oeste;Mato Grosso do Sul;2021-07-09;64
+Centro-Oeste;Mato Grosso do Sul;2021-07-10;64
+Centro-Oeste;Mato Grosso do Sul;2021-07-11;66
+Centro-Oeste;Mato Grosso do Sul;2021-07-12;68
+Centro-Oeste;Mato Grosso do Sul;2021-07-13;70
+Centro-Oeste;Mato Grosso do Sul;2021-07-14;69
+Centro-Oeste;Mato Grosso do Sul;2021-07-15;68
+Centro-Oeste;Mato Grosso do Sul;2021-07-16;68
+Centro-Oeste;Mato Grosso do Sul;2021-07-17;68
+Centro-Oeste;Mato Grosso do Sul;2021-07-18;66
+Centro-Oeste;Mato Grosso do Sul;2021-07-19;67
+Centro-Oeste;Mato Grosso do Sul;2021-07-20;63
+Centro-Oeste;Mato Grosso do Sul;2021-07-21;65
+Centro-Oeste;Mato Grosso do Sul;2021-07-22;63
+Centro-Oeste;Mato Grosso do Sul;2021-07-23;69
+Centro-Oeste;Mato Grosso do Sul;2021-07-24;69
+Centro-Oeste;Mato Grosso do Sul;2021-07-25;67
+Centro-Oeste;Mato Grosso do Sul;2021-07-26;61
+Centro-Oeste;Mato Grosso do Sul;2021-07-27;68
+Centro-Oeste;Mato Grosso do Sul;2021-07-28;65
+Centro-Oeste;Mato Grosso do Sul;2021-07-29;66
+Centro-Oeste;Mato Grosso;2021-07-08;72
+Centro-Oeste;Mato Grosso;2021-07-09;72
+Centro-Oeste;Mato Grosso;2021-07-10;69
+Centro-Oeste;Mato Grosso;2021-07-11;70
+Centro-Oeste;Mato Grosso;2021-07-12;75
+Centro-Oeste;Mato Grosso;2021-07-13;69
+Centro-Oeste;Mato Grosso;2021-07-14;71
+Centro-Oeste;Mato Grosso;2021-07-15;73
+Centro-Oeste;Mato Grosso;2021-07-16;72
+Centro-Oeste;Mato Grosso;2021-07-17;76
+Centro-Oeste;Mato Grosso;2021-07-18;69
+Centro-Oeste;Mato Grosso;2021-07-19;70
+Centro-Oeste;Mato Grosso;2021-07-20;72
+Centro-Oeste;Mato Grosso;2021-07-21;66
+Centro-Oeste;Mato Grosso;2021-07-22;72
+Centro-Oeste;Mato Grosso;2021-07-23;70
+Centro-Oeste;Mato Grosso;2021-07-24;70
+Centro-Oeste;Mato Grosso;2021-07-25;70
+Centro-Oeste;Mato Grosso;2021-07-26;63
+Centro-Oeste;Mato Grosso;2021-07-27;76
+Centro-Oeste;Mato Grosso;2021-07-28;74
+Centro-Oeste;Mato Grosso;2021-07-29;81
+Sul;Paraná;2021-07-08;85
+Sul;Paraná;2021-07-09;83
+Sul;Paraná;2021-07-10;82
+Sul;Paraná;2021-07-11;83
+Sul;Paraná;2021-07-12;81
+Sul;Paraná;2021-07-13;79
+Sul;Paraná;2021-07-14;75
+Sul;Paraná;2021-07-15;75
+Sul;Paraná;2021-07-16;75
+Sul;Paraná;2021-07-17;74
+Sul;Paraná;2021-07-18;72
+Sul;Paraná;2021-07-19;72
+Sul;Paraná;2021-07-20;72
+Sul;Paraná;2021-07-21;68
+Sul;Paraná;2021-07-22;66
+Sul;Paraná;2021-07-23;62
+Sul;Paraná;2021-07-24;65
+Sul;Paraná;2021-07-25;63
+Sul;Paraná;2021-07-26;64
+Sul;Paraná;2021-07-27;63
+Sul;Paraná;2021-07-28;60
+Sul;Paraná;2021-07-29;59
+Sul;Rio Grande do Sul;2021-07-08;81
+Sul;Rio Grande do Sul;2021-07-09;80
+Sul;Rio Grande do Sul;2021-07-10;79
+Sul;Rio Grande do Sul;2021-07-11;78
+Sul;Rio Grande do Sul;2021-07-12;77
+Sul;Rio Grande do Sul;2021-07-13;76
+Sul;Rio Grande do Sul;2021-07-14;75
+Sul;Rio Grande do Sul;2021-07-15;74
+Sul;Rio Grande do Sul;2021-07-16;75
+Sul;Rio Grande do Sul;2021-07-17;73
+Sul;Rio Grande do Sul;2021-07-18;73
+Sul;Rio Grande do Sul;2021-07-19;73
+Sul;Rio Grande do Sul;2021-07-20;71
+Sul;Rio Grande do Sul;2021-07-21;71
+Sul;Rio Grande do Sul;2021-07-22;69
+Sul;Rio Grande do Sul;2021-07-23;69
+Sul;Rio Grande do Sul;2021-07-24;69
+Sul;Rio Grande do Sul;2021-07-25;66
+Sul;Rio Grande do Sul;2021-07-26;68
+Sul;Rio Grande do Sul;2021-07-27;66
+Sul;Rio Grande do Sul;2021-07-28;65
+Sul;Rio Grande do Sul;2021-07-29;64
+Sul;Santa Catarina;2021-07-08;84
+Sul;Santa Catarina;2021-07-09;83
+Sul;Santa Catarina;2021-07-10;87
+Sul;Santa Catarina;2021-07-11;82
+Sul;Santa Catarina;2021-07-12;82
+Sul;Santa Catarina;2021-07-13;80
+Sul;Santa Catarina;2021-07-14;80
+Sul;Santa Catarina;2021-07-15;81
+Sul;Santa Catarina;2021-07-16;78
+Sul;Santa Catarina;2021-07-17;84
+Sul;Santa Catarina;2021-07-18;84
+Sul;Santa Catarina;2021-07-19;79
+Sul;Santa Catarina;2021-07-20;75
+Sul;Santa Catarina;2021-07-21;73
+Sul;Santa Catarina;2021-07-22;72
+Sul;Santa Catarina;2021-07-23;71
+Sul;Santa Catarina;2021-07-24;71
+Sul;Santa Catarina;2021-07-25;66
+Sul;Santa Catarina;2021-07-26;65
+Sul;Santa Catarina;2021-07-27;64
+Sul;Santa Catarina;2021-07-28;65
+Sul;Santa Catarina;2021-07-29;64
